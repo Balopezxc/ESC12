@@ -1,15 +1,15 @@
-Week,Day of the week,wpm,acc
-1,wednesday,62,95
-2,wednesday,0,0
-2,saturday,41,93
-3,wednesday,26,89
-3,saturday,40,93
-4,wednesday,NaN,NaN
-4,saturday,44,93
-5,wednesday,39,91
-6,wednesday,41,93
-6,saturday,35,92
-7,saturday,40,92
-8,wednesday,NaN,NaN
-8,saturday,NaN,NaN
-9,wednesday,NaN,NaN
+Student,Week,Day of the week,wpm,acc
+Joseph,1,wednesday,62,95
+Joseph,2,wednesday,0,0
+Joseph,2,saturday,41,93
+Joseph,3,wednesday,26,89
+Joseph,3,saturday,40,93
+Joseph,4,wednesday,NaN,NaN
+Joseph,4,saturday,44,93
+Joseph,5,wednesday,39,91
+Joseph,6,wednesday,41,93
+Joseph,6,saturday,35,92
+Joseph,7,saturday,40,92
+Joseph,8,wednesday,NaN,NaN
+Joseph,8,saturday,NaN,NaN
+Joseph,9,wednesday,NaN,NaN
