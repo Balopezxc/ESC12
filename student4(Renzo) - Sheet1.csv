@@ -1,15 +1,15 @@
-Week,Day of the week,wpm,acc
-1,wednesday,118,92
-2,wednesday,96,94
-2,saturday,82,94
-3,wednesday,63,84
-3,saturday,78,92
-4,wednesday,74,85
-4,saturday,66,89
-5,wednesday,82,88
-6,wednesday,78,95
-6,saturday,65,89
-7,saturday,81,91
-8,wednesday,72,92
-8,saturday,75,86
-9,wednesday,NaN,NaN
+Student,Week,Day of the week,wpm,acc
+Renzo,1,wednesday,118,92
+Renzo,2,wednesday,96,94
+Renzo,2,saturday,82,94
+Renzo,3,wednesday,63,84
+Renzo,3,saturday,78,92
+Renzo,4,wednesday,74,85
+Renzo,4,saturday,66,89
+Renzo,5,wednesday,82,88
+Renzo,6,wednesday,78,95
+Renzo,6,saturday,65,89
+Renzo,7,saturday,81,91
+Renzo,8,wednesday,72,92
+Renzo,8,saturday,75,86
+Renzo,9,wednesday,NaN,NaN
