@@ -1,15 +1,15 @@
-Week,Day of the week,wpm,acc
-1,wednesday,116,98
-2,wednesday,90,94
-2,saturday,54,92
-3,wednesday,61,90
-3,saturday,60,91
-4,wednesday,63,94
-4,saturday,41,91
-5,wednesday,73,91
-6,wednesday,57,88
-6,saturday,46,87
-7,saturday,53,89
-8,wednesday,67,95
-8,saturday,NaN,NaN
-9,wednesday,NaN,NaN
+Student,Week,Day of the week,wpm,acc
+Louiza,1,wednesday,116,98
+Louiza,2,wednesday,90,94
+Louiza,2,saturday,54,92
+Louiza,3,wednesday,61,90
+Louiza,3,saturday,60,91
+Louiza,4,wednesday,63,94
+Louiza,4,saturday,41,91
+Louiza,5,wednesday,73,91
+Louiza,6,wednesday,57,88
+Louiza,6,saturday,46,87
+Louiza,7,saturday,53,89
+Louiza,8,wednesday,67,95
+Louiza,8,saturday,NaN,NaN
+Louiza,9,wednesday,NaN,NaN
