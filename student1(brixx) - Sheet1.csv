@@ -1,16 +1,16 @@
 
-Day of the week,wpm,acc
-W1 wednesday,52,100
-W2 wednesday,53,100
-W2 saturday,16,94
-W3 wednesday,23,91
-W3 saturday,16,88
-W4 wednesday,11,62
-W4 saturday,22,83
-W5 wednesday,32,97
-W6wednesday,29,92
-W6 saturday,33,100
-W7 saturday,33,96
-W8 wednesday,27,95
-W8 saturday,30,87
-W9 wednesday,14,86
+Week,Day of the week,wpm,acc
+1,wednesday,52,100
+2,wednesday,53,100
+2,saturday,16,94
+3,wednesday,23,91
+3,saturday,16,88
+4,wednesday,11,62
+4,saturday,22,83
+5,wednesday,32,97
+6,wednesday,29,92
+6,saturday,33,100
+7,saturday,33,96
+8,wednesday,27,95
+8,saturday,30,87
+9,wednesday,14,86
