@@ -1,10 +1,15 @@
-Week,WPM,ACC
-1-thursday,25,90
-2-monday,NaN,NaN
-2-thursday,21,81
-3-thursday,15,78
-4-monday,4,73
-4-thursday,24,82
-5-thursday,NaN,NaN
-6-thursday,30,93
-7-monday,35,93
+Week,Day of the week,wpm,acc
+1,thursday,25,90
+2,monday,NaN,NaN
+2,thursday,21,81
+3,monday,NC,NC
+3,thursday,15,78
+4,monday,4,73
+4,thursday,24,82
+5,thursday,NaN,NaN
+6,monday,NC,NC
+6,thursday,30,93
+7,monday,35,93
+8,monday,NC,NC
+8,thursday,NC,NC
+9,monday,NC,NC
